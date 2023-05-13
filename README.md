@@ -4,7 +4,7 @@
 
 In this project, I have developed a Java code using the Eclipse IDE to test an authentication interface by applying the Agile BDD (Behavior-Driven Development) method with framework like Cucumber.
 
-#### To test any authentication interface with this code, you can follow the instructions below:
+#### To test any authentication interface with this code, you can follow the steps below:
 
 ## Testing Steps
 
@@ -59,15 +59,13 @@ Feature: Test the login functionality
 #### Step 5️⃣
 
 
-- Locate the necessary elements in the JAVA code, such as username field, password field, and login button using appropriate methods like class name, ID, or XPath.
-
 - Modify the URL to match the URL of your desired login interface.
 
 
 ![UrlGiven](https://github.com/hajer-zaga/Login_Test_With_BDD/assets/113891001/e01a9be3-3157-4a5b-89a7-40f49723297e)
 
 
- - Locate the username and password fields + replace 'Admin' and 'admin123' with the actual credentials for your login interface. 
+- Locate the username and password fields + replace 'Admin' and 'admin123' with the actual credentials for your login interface. 
  
  
 ![WhenMethod](https://github.com/hajer-zaga/Login_Test_With_BDD/assets/113891001/4ee9473e-8c75-4630-9cf7-e85de3dbd0a9)
